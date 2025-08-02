@@ -5,9 +5,11 @@
 🧠 Me interesan especialmente los proyectos relacionados con negocios, medio ambiente, sostenibilidad, salud pública e impacto social.
 
 ### 🛠️ Herramientas y tecnologías
-- **Lenguajes y herramientas:** Python · SQL · Tableau  
+- **Lenguajes y herramientas:** Python · SQL · Tableau  · Excel · R
 - **Librerías y frameworks:** Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn  
 - **Otras habilidades:** Limpieza de datos · Análisis exploratorio (EDA) · Diseño de dashboards · Pruebas A/B  · Estadística inferencial
+- 
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,r,sqlite,)](https://skillicons.dev)
 
 ### 📊 Proyectos de análisis de datos
 - 🔄 **Predicción de cancelación de clientes:** Construcción de un modelo de machine learning para predecir cancelaciones mensuales e identificar factores de riesgo.
