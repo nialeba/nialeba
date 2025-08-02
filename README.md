@@ -2,7 +2,7 @@
 
 🌱 Soy una gestora de proyectos ambientales en transición hacia el análisis de datos.  
 🔍 Disfruto explorar, analizar y visualizar datos para descubrir ideas clave y apoyar decisiones basadas en evidencia.  
-🧠 Me interesan especialmente los proyectos relacionados con medio ambiente, sostenibilidad, salud pública e impacto social.
+🧠 Me interesan especialmente los proyectos relacionados con negocios, medio ambiente, sostenibilidad, salud pública e impacto social.
 
 ### 🛠️ Herramientas y tecnologías
 - **Lenguajes y herramientas:** Python · SQL · Tableau  
