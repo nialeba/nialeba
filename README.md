@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header_image.png)
 
 🌱 Soy una gestora de proyectos ambientales en transición hacia el análisis de datos.  
 🔍 Disfruto explorar, analizar y visualizar datos para descubrir ideas clave y apoyar decisiones basadas en evidencia.  
