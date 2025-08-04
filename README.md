@@ -1,6 +1,12 @@
 ![Header](./header_pythocat_elb.png)
 
-#👋 Hola, soy Estefania 👩🏻‍💻. ¡Un gusto conocerte!
+<h1 align="center">👋 Hola, soy Estefania 👩🏻‍💻. ¡Un gusto conocerte!</h1>
+
+<div align="center">
+<a href="https://ossinsight.io">
+  <img src="/web/static/img/screenshots/homepage.gif" height=360
+</a>
+</div>
 
 🌱 Soy una gestora de proyectos ambientales en transición hacia el análisis de datos.  
 🔍 Disfruto explorar, analizar y visualizar datos para descubrir ideas clave y apoyar decisiones basadas en evidencia.  
