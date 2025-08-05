@@ -14,14 +14,14 @@
 
 ### 🛠️ Herramientas y tecnologías
 - **Lenguajes y herramientas:** Python · SQL · Tableau  · Excel · R
-- **Librerías y frameworks:** Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn  
-- **Otras habilidades:** Limpieza de datos · Análisis exploratorio (EDA) · Diseño de dashboards · Pruebas A/B  · Estadística inferencial
-
-<p align="center">
+  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,r,sqlite,postgres" />
   </a>
 </p>
+
+- **Librerías y frameworks:** Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn  
+- **Otras habilidades:** Limpieza de datos · Análisis exploratorio (EDA) · Diseño de dashboards · Pruebas A/B  · Estadística inferencial
 
 ### 📊 Proyectos de análisis de datos
 - 🔄 **Predicción de cancelación de clientes:** Construcción de un modelo de machine learning para predecir cancelaciones mensuales e identificar factores de riesgo.
